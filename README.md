@@ -50,7 +50,7 @@ Estou sempre aberto a novas conex√µes e oportunidades de aprendizado. Sinta-se √
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | (www.linkedin.com/in/victormartelli) |
+| **LinkedIn** | www.linkedin.com/in/victormartelli |
 | **Email** | victormartelligp@gmail.com |
 
 ---
