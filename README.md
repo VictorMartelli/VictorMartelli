@@ -50,7 +50,7 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se �
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [in/victor-hugo-martelli-costa-a8a427250](https://www.linkedin.com/in/victor-hugo-martelli-costa-a8a427250) |
+| **LinkedIn** | [Victor Hugo](www.linkedin.com/in/victormartelli) |
 | **Email** | victormartelligp@gmail.com |
 
 ---
@@ -65,4 +65,4 @@ Todo o conteúdo e código aqui apresentado, salvo menção em contrário nos re
 
 Victor Hugo Martelli Costa.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-hugo-martelli-costa-a8a427250)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/victormartelli)
