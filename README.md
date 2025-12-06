@@ -1,7 +1,5 @@
 # Olá! Eu sou o Victor Hugo 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VictorMartelli&show_icons=true&theme=radical&hide_border=true" alt="VictorMartelli's GitHub Stats" />
-
 > "Olá! Me chamo Victor Hugo, sou natural de Araraquara SP e sou **formado em Análise e Desenvolvimento de Sistemas (ADS)**. Utilizo o GitHub para compartilhar meus projetos pessoais e profissionais."
 
 Seja bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará meus projetos pessoais, estudos e contribuições, focados em soluções modernas e eficientes de desenvolvimento de software.
