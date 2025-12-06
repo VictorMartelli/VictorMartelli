@@ -12,12 +12,19 @@ Seja bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará meus projetos
 
 Minha jornada de aprendizado e desenvolvimento me levou a trabalhar com um conjunto de tecnologias Full Stack, com foco em frameworks modernos e tipagem estática.
 
-| Categoria | Tecnologias Principais |
-| :--- | :--- |
-| **Frontend** | `React` • `Next.js` • `TypeScript` • `TailwindCSS` • `Radix UI` |
-| **Backend** | `ASP.NET Core` • `.NET` • `C#` |
-| **Banco de Dados** | `PostgreSQL` • `SQL Server` |
-| **Ferramentas** | `Vite` • `Prisma` • `Entity Framework Core` |
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Prisma-5A67D8?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
 ---
 
