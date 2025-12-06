@@ -50,7 +50,7 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se �
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Victor Hugo](www.linkedin.com/in/victormartelli) |
+| **LinkedIn** | (www.linkedin.com/in/victormartelli) |
 | **Email** | victormartelligp@gmail.com |
 
 ---
@@ -60,9 +60,3 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se �
 Todo o conteúdo e código aqui apresentado, salvo menção em contrário nos repositórios individuais, é disponibilizado sob a **Licença MIT**.
 
 ---
-
-## 👨‍💻 Autor
-
-Victor Hugo Martelli Costa.
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/victormartelli)
