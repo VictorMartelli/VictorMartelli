@@ -1,10 +1,5 @@
 # Olá! Eu sou o Victor Hugo 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMartelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMartelli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### 🚀 Sobre Mim
 > "Olá! Me chamo Victor Hugo, tenho 21 anos e sou **formado em Análise e Desenvolvimento de Sistemas (ADS)**. Utilizo o GitHub para compartilhar meus projetos pessoais e profissionais."
 
@@ -60,5 +55,5 @@ Sinta-se à vontade para entrar em contato para trocarmos experiências ou discu
 ---
 
 <p align="center">
-  Desenvolvido com 💻 por Victor Hugo
+ < Desenvolvido com 💻 por Victor Hugo >
 </p>
