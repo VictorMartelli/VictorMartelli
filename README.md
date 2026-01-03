@@ -57,6 +57,12 @@ Sinta-se à vontade para entrar em contato para trocarmos experiências ou discu
   <img src="https://komarev.com/ghpvc/?username=VictorMartelli&color=brightgreen"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorMartelli/VictorMartelli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorMartelli/VictorMartelli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorMartelli/VictorMartelli/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
  < Desenvolvido com 💻 por Victor Hugo >
 </p>
