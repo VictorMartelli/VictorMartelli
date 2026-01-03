@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif?v=5" width="300" alt="Ghost Pac-man">
+</div>
+
 # Olá! Eu sou o < Victor Hugo >👋
 
 ### 🚀 Sobre Mim
