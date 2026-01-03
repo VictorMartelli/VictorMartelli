@@ -43,8 +43,8 @@ API RESTful robusta com autenticação JWT e lógica de persistência de dados.
 
 Sinta-se à vontade para entrar em contato para trocarmos experiências ou discutirmos oportunidades!
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/victormartelli" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/victormartelli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:victormartelligp@gmail.com">
@@ -53,6 +53,9 @@ Sinta-se à vontade para entrar em contato para trocarmos experiências ou discu
 </div>
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorMartelli&color=brightgreen"/>
+</div>
 
 <p align="center">
  < Desenvolvido com 💻 por Victor Hugo >
